@@ -1,0 +1,49 @@
+%$aioj `` PLAYER HP    (J IS AMOUNT TO ADD TO HP BY POTION; EITHER 0 OR 2)
+%$gemrpd `` ENEMY 1 HP (D LOCKS ENEMY 1 UNTIL PRINTING IS DONE)
+%$fhnqs `` ENEMY 2 HP
+%$uwxyz `` POTION COUNT
+``%$jklt `` UNUSED
+
+ g e            
+ | | /m      
+ >->-*-#?--\   
+           |       /-$"POTION USED"**-{-}z         
+           |      x~-y/#2\         |\#1/#0\    
+           *--*-{=}*--*-{*}j       \-$#*-{=}:-$"NOT ENOUGH POTIONS"-& 
+           |  \#3/      
+           |       /-$"ENEMY 1 ATTACKED"-*-{-}p         
+           |      m~---------------------\#1/    
+           *--*-{=}/          /----------/
+           |  \#1/            \r      
+           |       /-$"ENEMY 2 ATTACKED"-*-{-}q
+           |      n~s                    \#1/   
+           *--*-{=}/
+           |  \#2/               
+           *----~\/----~-*-{=}-;----$"INVALID INPUT"-&	      
+           *-{=}/\*-{=}/ \#2/                                   
+           \#1/   \#3/                           
+                                           
+                                           s\/$#*\          /#1\ j\ /$#*\                   z\/$#*\  /\
+   r\                                    /dq>~  h|         o*-{-}{+}~  i|                   y>~  w| d~g
+   p>$_"ENEMY 1 HP: "-$#-$_"ENEMY 2 HP: "*-#1/   \$_"PLAYER HP: "-#1/   \$_"POTION COUNT: "-#1/   \#1/          
+         
+         
+     h f     i a      w u      
+     >->-n   >->-o    >->-x     
+
+``  ENEMMY 2 HP  PLAYER HP   POTION COUNT
+    .-#6\        .-#5\       .-#5\
+        |            |           |
+        f            a           u
+
+``  ENEMY 1 HP
+    .-#4-$"ASCII FIGHT."-$"PRESS 1 TO ATTACK ENEMY 1."\
+    /-------------------------------------------------/
+    \$"PRESS 2 TO ATTACK ENEMY 2."-$"PRESS 3 TO USE A POTION."\
+    /---------------------------------------------------------/
+    \$"WHEN YOU HAVE 0 HP, YOU ARE DEAD. WHEN ALL ENEMIES DIED, YOU HAVE WON."\
+                                                                              e
+
+ /#1\ j\  
+o*-{-}{+}
+``                space up
